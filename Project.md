@@ -563,7 +563,7 @@ Our project "ExoVault" project proposes a transformative solution to the challen
 Thus, the project's decentralized approach, leveraging Ethereum smart contracts, IPFS storage, MetaMask, Web3.js, and a user-friendly React.js DApp, has revolutionized the collector edition vehicle market. ExoVault's impact is evident in the increased transparency, accessibility, simplified verification, and empowered community it has fostered. As ExoVault continues to evolve, it is poised to further revolutionize this exciting market, shaping the future of collector edition vehicle ownership.
 
 <p align="center">
-  <img src="https://github.com/harikrishna20MID0001/Blockchaingrp/blob/main/client/result.png" alt="Result" width="400" height="600">
+  <img src="https://ibb.co/7prmnsw" alt="Result" width="400" height="600">
 </p>
 
 ## [Video Link](https://vitacin-my.sharepoint.com/:v:/g/personal/harikrishna_kamath2020_vitstudent_ac_in/EZdBBfIK5hhJi5fBH12g97YBfqPRTShfTrKgJSqLTSsQAg?e=eC6ErS)
