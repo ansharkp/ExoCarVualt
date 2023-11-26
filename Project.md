@@ -563,13 +563,9 @@ Our project "ExoVault" project proposes a transformative solution to the challen
 Thus, the project's decentralized approach, leveraging Ethereum smart contracts, IPFS storage, MetaMask, Web3.js, and a user-friendly React.js DApp, has revolutionized the collector edition vehicle market. ExoVault's impact is evident in the increased transparency, accessibility, simplified verification, and empowered community it has fostered. As ExoVault continues to evolve, it is poised to further revolutionize this exciting market, shaping the future of collector edition vehicle ownership.
 
 <p align="center">
-  <img src="https://github.com/harikrishna20MID0001/Blockchaingrp/blob/main/Implementation_ExoVault.jpg" alt="Implementation" width="600" height="400">
-</p>
-
+  <img src="https://github.com/harikrishna20MID0001/Blockchaingrp/blob/main/Implementation_ExoVault.jpg" alt="Implementation" width="600" height="400"></p>
 
 ## References!
-
-
 1. [Blockchain-Based Secure Data Storage and Sharing for Smart Cities: Model and Evaluation](https://ieeexplore.ieee.org/document/10185202/)
 2. [The Five Ways Blockchain Will Redefine Car Ownership](https://medium.com/move-forward-blog/the-five-ways-blockchain-will-redefine-car-ownership-f2acb5568c77)
 3. [Blockchain Based Intelligent Vehicle Data sharing
