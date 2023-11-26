@@ -360,55 +360,6 @@ The proposed system utilizes a hierarchical storage mechanism to balance securit
 5. IPFS is used for decentralized file storage, ensuring file availability and integrity.
 
 
-# Project Breakdown
-
-## Smart Contract Development
-- **Smart Contract Design**:
-   - Design Ethereum smart contracts for the decentralized file repository.
-   - Implement functions for adding file hashes, associating them with assets, and managing access and ownership.
-
-## User Interface Development
-- **DApp Development with React.js**:
-   - Develop a DApp using React.js for a seamless and interactive user experience.
-   - Implement features for uploading files, connecting with Ethereum smart contracts, and managing user interactions.
-
-## Ethereum Development
-- **Compile Smart Contracts Using Remix**:
-   - Use Remix for compiling Ethereum smart contracts during development.
-     
-## Ethereum testing
-- **Hardhat**
-   - Use Hardhat for compiling and deploying ethreum smart contract to local blockchain
-     
-## User Interaction and Blockchain Connectivity
-- **MetaMask and Web3 Integration**:
-   - Instruct users to connect to the Ganache blockchain using MetaMask and Web3.js for seamless interaction with the DApp.
-
-- **File Upload and Connection with Hardhat**:
-   - Enable users to upload files through the DApp, ensuring the connection with the deployed smart contracts on the blockchain.
-
-## Pinata API configuration
-- ** Make an account in pinata and configure API in project to upload files to IPFS
-
-## File Storage and Retrieval
-- **IPFS Integration**:
-   - Implement functionality to publish uploaded files to IPFS using pinata API for decentralized and reliable storage.
-   
-- **File Hash Retrieval from IPFS**:
-   - Develop a mechanism to retrieve unique file hashes from IPFS for each uploaded file.
-
-## Smart Contract Interaction
-- **Associate File Hash with Assets**:
-   - Implement features that allow users to associate file hashes with specific assets by interacting with the deployed Ethereum smart contract.
-
-## Transaction Approval and Security
-- **MetaMask Transaction Approval**:
-    - Integrate MetaMask for secure transaction approval, ensuring user consent and data integrity.
-      
-## File Management and Access
-- **View/Download Files**:
-    - Develop features that enable users to view and download files associated with their assets by interacting with the deployed Ethereum smart contract.
-
 
 # Task Assignment
 
