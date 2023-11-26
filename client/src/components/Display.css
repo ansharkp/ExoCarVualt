@@ -1,0 +1,60 @@
+.image-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 10px;
+  grid-auto-rows: 350px;
+  margin: 20px; /* Increased margin for better spacing */
+}
+
+.image-list img {
+  width: 100%; /* Make images responsive within their container */
+  height: 100%; /* Make images responsive within their container */
+  border-radius: 8px; /* Rounded corners for images */
+  object-fit: cover; /* Ensure images cover the entire container */
+  transition: transform 0.3s ease; /* Smooth transition effect on hover */
+}
+
+.image-list img:hover {
+  transform: scale(1.1); /* Scale up images on hover */
+}
+
+.center {
+  text-align: center; /* Center-align text */
+  margin: 40px;
+}
+
+.button {
+  background-color: #2a2a72; /* Dark blue color */
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-right: 10px;
+  cursor: pointer; /* Add pointer cursor on hover */
+  transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+.button:hover {
+  background-color: #009ffd; /* Light blue color on hover */
+  box-shadow: 0 0 10px rgba(0, 159, 253, 0.5); /* Subtle box shadow on hover */
+}
+
+.address {
+  display: block;
+  margin: auto;
+  height: 40px; /* Increased height for better visibility */
+  width: 330px;
+  text-align: center;
+  background-color: #f0f0f0; /* Light gray background color */
+  color: #333; /* Dark text color */
+  border: 1px solid #ccc; /* Light border color */
+  border-radius: 8px;
+  margin-bottom: 20px; /* Increased margin for better spacing */
+}
+
+input[type="text"]:focus {
+  background-color: #e6f7ff; /* Light blue background color on focus */
+  color: #333; /* Dark text color on focus */
+  border: 1px solid #99c2ff; /* Light border color on focus */
+}
