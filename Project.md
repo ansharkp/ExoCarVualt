@@ -566,6 +566,8 @@ Thus, the project's decentralized approach, leveraging Ethereum smart contracts,
   <img src="https://github.com/harikrishna20MID0001/Blockchaingrp/blob/main/result.jpg" alt="Result" width="400" height="600">
 </p>
 
+## [Video Link](https://vitacin-my.sharepoint.com/:v:/g/personal/harikrishna_kamath2020_vitstudent_ac_in/EZdBBfIK5hhJi5fBH12g97YBfqPRTShfTrKgJSqLTSsQAg?e=eC6ErS)
+
 ## References!
 1. [Blockchain-Based Secure Data Storage and Sharing for Smart Cities: Model and Evaluation](https://ieeexplore.ieee.org/document/10185202/)
 2. [The Five Ways Blockchain Will Redefine Car Ownership](https://medium.com/move-forward-blog/the-five-ways-blockchain-will-redefine-car-ownership-f2acb5568c77)
