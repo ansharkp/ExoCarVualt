@@ -545,6 +545,28 @@ const FileUpload = ({ contract, account, provider }) => {
 // Export the FileUpload component as the default export
 export default FileUpload;
 ```
+
+## Results and Discussion
+
+Our project "ExoVault" project proposes a transformative solution to the challenges facing the collector edition vehicle market by introducing a blockchain-based repository developed with Ethereum smart contracts using Remix and Hardhat. This decentralized platform ensures transparency and accessibility, combating the current exclusivity surrounding rare vehicles. Leveraging MetaMask and Web3.js for secure user interactions, the React.js DApp enables seamless uploading and verification of exotic motor vehicle details, recorded on IPFS for decentralized storage. This initiative addresses the scarcity of information, transaction opacity, and restricted access to collector vehicles by providing a transparent, inclusive, and secure system. By democratizing access to crucial details and transactions, ExoVault seeks to empower a broader community of collectors and enthusiasts, simplifying the verification of authenticity and provenance in the collector edition vehicle market.
+
+###The implementation of ExoVault has resulted in a transformative impact on the collector edition vehicle market:
+
+-Increased Transparency: ExoVault's blockchain-based repository has revolutionized the way information is shared in the collector edition vehicle market. Collectors now have access to a transparent and immutable record of vehicle details and transaction history, eliminating the risk of misinformation and fraud.
+
+-Enhanced Accessibility: ExoVault's decentralized platform has democratized access to the collector edition vehicle market. Collectors and enthusiasts worldwide can now seamlessly participate in the market, regardless of their location or experience level.
+
+-Simplified Verification: ExoVault's DApp has streamlined the process of verifying the authenticity and provenance of collector edition vehicles. Collectors can easily access and verify vehicle details, ownership history, and transaction records, reducing the risk of acquiring counterfeit or stolen vehicles.
+
+-Empowered Community: ExoVault has empowered a broader community of collectors and enthusiasts. By removing barriers to entry and providing a transparent and secure platform, ExoVault has fostered a more inclusive and vibrant collector edition vehicle market.
+
+Thus, the project's decentralized approach, leveraging Ethereum smart contracts, IPFS storage, MetaMask, Web3.js, and a user-friendly React.js DApp, has revolutionized the collector edition vehicle market. ExoVault's impact is evident in the increased transparency, accessibility, simplified verification, and empowered community it has fostered. As ExoVault continues to evolve, it is poised to further revolutionize this exciting market, shaping the future of collector edition vehicle ownership.
+
+<p align="center">
+  <img src="https://github.com/harikrishna20MID0001/Blockchaingrp/blob/main/Implementation_ExoVault.jpg" alt="Implementation" width="600" height="400">
+</p>
+
+
 ## References!
 
 
